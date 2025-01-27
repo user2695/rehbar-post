@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "RehbarPost - Streamline Your Logistics",
   description:
-    "RehbarPost offers efficient booking, dispatching, tracking, and NDR management solutions for modern logistics.",
+    "RehbarPost offers efficient booking, dispatching, tracking, and NDR management solutions for modern logistic.",
 }
 
 export default function RootLayout({
