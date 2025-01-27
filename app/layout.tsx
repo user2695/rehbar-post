@@ -20,5 +20,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-git config --global user.email "zy.khan37@gmail.com"
