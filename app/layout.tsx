@@ -4,9 +4,9 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "LogiSwift - Streamline Your Logistics",
+  title: "RehbarPost - Streamline Your Logistics",
   description:
-    "LogiSwift offers efficient booking, dispatching, tracking, and NDR management solutions for modern logistics.",
+    "RehbarPost offers efficient booking, dispatching, tracking, and NDR management solutions for modern logistics.",
 }
 
 export default function RootLayout({
@@ -20,3 +20,5 @@ export default function RootLayout({
     </html>
   )
 }
+
+git config --global user.email "zy.khan37@gmail.com"
